@@ -1,0 +1,3 @@
+[submodule "sudoku_solver"]
+	path = sudoku_solver
+	url = https://github.com/niteshrawat1995/sudoku_solver.git
